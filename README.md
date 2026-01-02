@@ -31,7 +31,7 @@ http://localhost:5173
 - **Lucide Icons** - Icon library
 - **Tailwind CSS** - Styling
 
-## 💻 Usage
+# 💻 Usage
 
 1. **Add Transaction** - Click the floating + button
 2. **View Analytics** - Switch between Overview, Analytics, Transactions, Categories tabs
