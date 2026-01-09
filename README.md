@@ -95,7 +95,7 @@ const [budget, setBudget] = useState(5000); // Change amount
 
 MIT License - feel free to use for personal or commercial projects.
 
-## 🤝 Contributing
+### 🤝 Contributing
 
 Contributions welcome! Please open an issue or submit a PR.
 
